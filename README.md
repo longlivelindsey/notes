@@ -17,6 +17,8 @@ git status
 git add . # or git add file
 git commit
 git commit -m "Message"
+git push
+git pull
 ```
 
 ## Rails
