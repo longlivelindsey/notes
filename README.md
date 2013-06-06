@@ -9,7 +9,7 @@
 * "remove" = `rm file`
 * "recursive forced remove" = `rm -rf dir`
 
-## Git (Distributive Version Control)
+## Git (Distribution Version Control)
 ```bash
 cd project
 git init # first time
